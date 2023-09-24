@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/andreas-augustin-dev/actions-template-sync-fork/compare/v1.1.3...v1.1.4) (2023-09-24)
+
+
+### Bug Fixes
+
+* **deps:** :lock: ([#388](https://github.com/andreas-augustin-dev/actions-template-sync-fork/issues/388)) update docker file deps ([f362753](https://github.com/andreas-augustin-dev/actions-template-sync-fork/commit/f3627536ff82a9e4c701b50fb51ea5fb6ee49c25))
+
 ## [1.1.3](https://github.com/AndreasAugustin/actions-template-sync/compare/v1.1.2...v1.1.3) (2023-09-16)
 
 
